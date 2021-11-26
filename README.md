@@ -36,6 +36,6 @@
 </div><br/>
 
 
-Apaixonado por tecnologia !
+Apaixonado em tecnologia e aprender coisas novas !
 
 
