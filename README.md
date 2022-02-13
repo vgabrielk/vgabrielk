@@ -1,3 +1,5 @@
+<div align='center'>
+ 
 ### Olá! Eu Sou o Vitor Felix 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vgfelixx)
@@ -31,3 +33,4 @@
 Apaixonado em tecnologia e aprender coisas novas !
 
 
+</div>
