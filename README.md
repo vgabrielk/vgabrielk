@@ -25,7 +25,7 @@
 </div><br/>
 
 
-Ver meu canal no <a href="https://www.youtube.com/channel/UCNJ9LUrgUjsI_6BrZGtrQQQ"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" align="center" /> </a> 
+Veja meu canal no <a href="https://www.youtube.com/channel/UCNJ9LUrgUjsI_6BrZGtrQQQ"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" align="center" /> </a> 
 
 
 </div>
