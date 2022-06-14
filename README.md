@@ -11,7 +11,7 @@
 </div>
 
 ###
-<h3 align="left">Atualmente trabalhando como desenvolvedor júnior na Modifique digital e freelancer na Agência LMV.<br>A nossa stack é : React, Bootstrap,  AdonisJS  e MySql</h3>
+<h3 align="left">Atuando como desenvolvedor júnior na Modifique digital e freelancer na Agência LMV.<br>A nossa stack é : React, Bootstrap,  AdonisJS  e MySql</h3>
 
 ###
 <div align="left">
