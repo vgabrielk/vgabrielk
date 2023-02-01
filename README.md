@@ -10,8 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
 
-###
-<h3 align="left">Atuando como desenvolvedor pleno na BVR.
+
 
 ###
 <div align="left">
