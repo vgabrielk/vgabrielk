@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgabrielk" alt="vgabrielk" /></a> </p>
 
-### 👨‍💻 Todos os meus projetos estão disponíveis em : [https://vitorfelixdev.netlify.app/](https://vitorfelixdev.netlify.app/)
+### 👨‍💻 Saiba mais sobre mim em : [https://vfelixdev.netlify.app/](https://vitorfelixdev.netlify.app/)
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
