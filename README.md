@@ -1,6 +1,5 @@
 
 ### Vitor Felix
-## 🔭 Atualmente trabalhando na Tyto.code e Co-fundador da Group company.
 
 <span style="display: flex">
   
