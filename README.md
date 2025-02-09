@@ -1,25 +1,35 @@
-
 ### Vitor Felix
 
-<span style="display: flex">
-  
-[![React Native](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://choosealicense.com/licenses/mit/)
+<div style="display: flex; flex-direction: column; gap: 10px;">
 
+  <div>
+    <h3>🔹 Backend</h3>
+    <span style="display: flex; gap: 5px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+    </span>
+  </div>
 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://choosealicense.com/licenses/mit/)
+  <div>
+    <h3>🎨 Frontend</h3>
+    <span style="display: flex; gap: 5px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+      <img src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+    </span>
+  </div>
 
-[![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%7248B6)](https://choosealicense.com/licenses/mit/)
+  <div>
+    <h3>🛠️ Infraestrutura</h3>
+    <span style="display: flex; gap: 5px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+    </span>
+  </div>
 
-[![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%7248B6)](https://choosealicense.com/licenses/mit/)
-
-
-[![Styled components](https://img.shields.io/badge/styledcomponents-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=%7248B6)](https://choosealicense.com/licenses/mit/)
-
-
-[![Laravel](https://img.shields.io/badge/Laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%7248B6)](https://choosealicense.com/licenses/mit/)
-
-[![Node](https://img.shields.io/badge/Node-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%7248B6)](https://choosealicense.com/licenses/mit/)
-
-[![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%7248B6)](https://choosealicense.com/licenses/mit/)
-
-</span>
+</div>
