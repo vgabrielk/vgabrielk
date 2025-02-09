@@ -13,7 +13,7 @@
   </div>
 
   <div>
-    <h3>🎨 Frontend</h3>
+    <h3>🔹 Frontend</h3>
     <span style="display: flex; gap: 5px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
       <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -26,7 +26,7 @@
   </div>
 
   <div>
-    <h3>🛠️ Infraestrutura</h3>
+    <h3>🔹 Outros</h3>
     <span style="display: flex; gap: 5px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
     </span>
