@@ -5,8 +5,6 @@
   <div>
     <h3>🔹 Backend</h3>
     <span style="display: flex; gap: 5px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
       <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
     </span>
